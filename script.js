@@ -81,6 +81,4 @@
 
         login(token);
     });
-
-    console.log("Styled popup with login functionality created on LuminaClient page");
 })();
